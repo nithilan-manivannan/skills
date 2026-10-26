@@ -10,7 +10,7 @@ The goal of the collection is simple: eliminate generic, templated output, and r
 
 Alongside the skill folders, the repo carries:
 
-- `llms.txt`: a one line, machine readable index of every skill for agent discovery.
+- `llms.txt`: a one line, machine readable index for agent discovery. It covers 14 of the 17 skills today; the remaining three (laws-of-ux, web-designer, webcore-analyzer) are described in the tables below.
 - `index.html`: a showroom page ("Maison des Skills") that presents the collection as an acquirable volume: porcelain paper, gold accents, and a small catalogue site for browsing the skills locally.
 - Supporting assets, references, and scripts inside the skill folders themselves.
 
